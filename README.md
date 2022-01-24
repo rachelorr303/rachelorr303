@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @rachelorr303
-- 👀 I’m interested in cybersecurity, and pretty much anything else, I'm still figuring out my interests
-- 🌱 I’m currently learning about data structures and algorithms
-- 💞️ I’m looking to collaborate on anything at all!
+- 👀 I’m interested in cybersecurity, Software Engineering, and Machine Learning/AI
 - 📫 reach me at rachel.orr@ufl.edu or rachel.orr303@gmail.com
 
 <!---
